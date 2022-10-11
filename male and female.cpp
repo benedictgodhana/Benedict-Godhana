@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//main program
 int main()
 {
     cout <<"\t    O\t    O\n";
